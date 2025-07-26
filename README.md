@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi There 👋 I'm Mahmoud Khattab
 
-<!--
-**Mah-moud-hassan/Mah-moud-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About ME 💬 :
 
-Here are some ideas to get you started:
+### - I'm 19 years  old Data Science & Machine Learning Enthusiast from Egypt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Killua](https://raw.githubusercontent.com/Mah-moud-hassan/Mah-moud-hassan/main/killua_gif_for_github.gif)
+
+
+### - Learning :
+
+-  Mathematics
+-  Data Science
+-  Machine Learning
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="left">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+</p>
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<a href="mahmoudkhattab333999@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/mah-moud-hassan">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+
+
+*************
